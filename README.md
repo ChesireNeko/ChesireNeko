@@ -2,6 +2,7 @@
 - 👀 I’m interested in graphics and code
 - 🌱 I’m currently learning ui/ux, JS frameworks, illustrator
 - 📫 How to reach me: https://www.gatz.design
+- Plz reach out for links to my little projects!
 
 <!---
 ChesireNeko/ChesireNeko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
